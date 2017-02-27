@@ -1,10 +1,5 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sanear-dll", "src\sanear-dll.vcxproj", "{E02FD084-ED17-46C7-B5A6-F0BBB7966BBB}"
-EndProject
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sanear", "..\sanear.vcxproj", "{BB2B61AF-734A-4DAD-9326-07F4F9EA088F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baseclasses", "src\baseclasses.vcxproj", "{B8375339-1932-4CC0-AE5B-257672078E41}"
